@@ -1,1 +1,1 @@
-# LogiTalkProject
+# TalkProject
